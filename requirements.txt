@@ -1,0 +1,9 @@
+openai
+python-dotenv
+pyttsx3
+speechrecognition
+pyaudio
+pydub
+requests
+flask
+twilio
